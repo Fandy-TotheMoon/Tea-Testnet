@@ -1,2 +1,2 @@
-# Fandy-RND ACADEMY
+# FandyRND-PROJECT
 This Is Tea Testnet
